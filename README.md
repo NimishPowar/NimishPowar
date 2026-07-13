@@ -1,37 +1,45 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm **Nimish Powar**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=I'm+Nimish+Powar;Curious+builder+and+problem+solver;Turning+ideas+into+practical+solutions" alt="Typing SVG" />
+</div>
 
-### About Me
-> I ask **"Why?"** until I understand and **"What if?"** until I build it.
->
-> I'm a curious builder who enjoys challenging conventional thinking, leading from the front, and diving into the smallest details. I believe every difficult problem has another way to solve it, and I'm always looking for that path.
->
-> AI, software, data, and space fuel my curiosity, but learning itself is what drives me. If I decide to pursue something, I commit to mastering it. Every project is an opportunity to explore, innovate, and create something meaningful.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-0A66C2?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Interests-Machine%20Learning-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Passion-Data%20Science-34D399?style=for-the-badge" />
+</p>
 
-- 🎓 MCA student at **IMCC, Pune**
-- 🎓 Completed **BCS**
-- 💡 Passionate about **Backend Development**, **Machine Learning**, **Data Science**, **Climate studies**, and **Space-related applications**
-- 🚀 Building practical projects that solve real-world problems using scalable and data-driven solutions
+## About Me
+> I ask “Why?” until I understand and “What if?” until I build it.
 
-### Skills
-- **Languages:** Python, Java, JavaScript
-- **Data & Databases:** MySQL, MongoDB, Pandas, NumPy
-- **Tools & Frameworks:** Git, GitHub, VS Code, Django (Basic)
+I’m a curious builder who enjoys challenging conventional thinking, leading from the front, and diving into the smallest details. I believe every difficult problem has another way to solve it, and I’m always looking for that path.
 
-### Featured Projects
+- 🎓 MCA student at IMCC, Pune
+- 🎓 Completed BCS
+- 💡 Passionate about backend development, machine learning, data science, climate studies, and space-related applications
+- 🚀 Building practical projects that solve real-world problems using scalable and data-driven approaches
+
+## Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,django,flask,mysql,mongodb,git,github,vscode" />
+</div>
+
+## Featured Projects
 - **Human Comfort Index (HCI)** — Data-driven evaluation of human comfort using environmental factors like temperature, humidity, and wind speed.
 - **Student Dropout Prediction System** — Flask-based ML app for predicting dropout risk with interactive analytics and reporting.
 - **LinkView — Linked List Visualizer** — Interactive visualizer for linked list data structures using HTML, CSS, JavaScript, and SVG animations.
-- **Portfolio Website** — Responsive personal portfolio built with modern web technologies and smooth animations.
+- **Portfolio Website** — Responsive personal portfolio with modern styling and smooth interactions.
 
-### Connect with Me
-- 🌐 Portfolio: [nimishpowar.github.io/portfolio](https://nimishpowar.github.io/portfolio/)
-- 📧 Email: nimishpowar811@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/nimish-powar-a3024a31b](https://www.linkedin.com/in/nimish-powar-a3024a31b)
-- 🐙 GitHub: [github.com/NimishPowar](https://github.com/NimishPowar)
+## Connect with Me
+<p align="center">
+  <a href="https://nimishpowar.github.io/portfolio/">🌐 Portfolio</a> •
+  <a href="mailto:nimishpowar811@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/nimish-powar-a3024a31b">💼 LinkedIn</a> •
+  <a href="https://github.com/NimishPowar">🐙 GitHub</a>
+</p>
 
-### Looking For
-- 💼 Internships and new opportunities in backend development, machine learning, or data science
-- 🤝 Collaboration on meaningful projects that blend analytics, automation, and intelligent systems
+## Looking For
+- 💼 Internships and opportunities in backend development, machine learning, and data science
+- 🤝 Collaboration on meaningful projects blending analytics, automation, and intelligent systems
 
