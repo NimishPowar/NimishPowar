@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=I'm+Nimish+Powar;Curious+builder+and+problem+solver;Turning+ideas+into+practical+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=nimish@portfolio:~$+whoami;Nimish+Powar;nimish@portfolio:~$+skills;Backend+•+ML+•+Data+Science;nimish@portfolio:~$+echo+"Building+what+matters"" alt="Terminal intro" />
 </div>
 
 <p align="center">
@@ -30,10 +30,29 @@ I’m a curious builder who enjoys challenging conventional thinking, leading fr
 </div>
 
 ## Featured Projects
-- **Human Comfort Index (HCI)** — Data-driven evaluation of human comfort using environmental factors like temperature, humidity, and wind speed.
-- **Student Dropout Prediction System** — Flask-based ML app for predicting dropout risk with interactive analytics and reporting.
-- **LinkView — Linked List Visualizer** — Interactive visualizer for linked list data structures using HTML, CSS, JavaScript, and SVG animations.
-- **Portfolio Website** — Responsive personal portfolio with modern styling and smooth interactions.
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Human Comfort Index</strong><br/>
+      <span>Data-driven comfort analysis using environmental factors.</span>
+    </td>
+    <td align="center">
+      <strong>Student Dropout Prediction</strong><br/>
+      <span>Flask + ML app for dropout risk insights.</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>LinkView</strong><br/>
+      <span>Interactive linked-list visualizer with animated SVGs.</span>
+    </td>
+    <td align="center">
+      <strong>Portfolio Website</strong><br/>
+      <span>Modern personal site with smooth UI interactions.</span>
+    </td>
+  </tr>
+</table>
 
 ## Connect with Me
 <p align="center">
